@@ -1,0 +1,4 @@
+**/exp
+node_modules/
+.vscode/
+.env
